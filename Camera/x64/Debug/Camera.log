@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+D:\Projects\LearnOpenGL\LearnOpenGL\Camera\Camera.cpp(193,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Projects\LearnOpenGL\LearnOpenGL\Camera\Camera.cpp(194,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Shader.cpp
+  正在生成代码...
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Camera.vcxproj -> D:\Projects\LearnOpenGL\LearnOpenGL\x64\Debug\Camera.exe
